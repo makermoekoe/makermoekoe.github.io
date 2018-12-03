@@ -1,6 +1,6 @@
 ## Welcome to maker.moekoe
 
-This is my personal GitHub Page to my [Instagram Blog](https://instagram.com/maker.moekoe).
+This is my personal GitHub Page to my [Instagram Blog](https://instagram.com/maker.moekoe) where you can find most of my projects.
 
 You can use the [editor on GitHub](https://github.com/makermoekoe/makermoekoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
