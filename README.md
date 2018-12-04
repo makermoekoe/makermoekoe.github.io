@@ -1,39 +1,12 @@
-## Welcome to maker.moekoe
+### Welcome to maker.moekoe
 
-This is my personal GitHub Page to my [Instagram Blog](https://www.instagram.com/maker.moekoe/) where you can find most of my projects.
+This is my personal GitHub Page to my [Instagram Blog](https://www.instagram.com/maker.moekoe/) where you can find the material to most of my projects.
 
-You can use the [editor on GitHub](https://github.com/makermoekoe/makermoekoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the future there will be great content to have a look at, but until now it is just a work in progress..
 
-### Markdown
+- Project one
+- Project two
+- Project three
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makermoekoe/makermoekoe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There are also some great projects on my [Instructables Page](https://www.instructables.com/member/moekoe/).
