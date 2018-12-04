@@ -1,6 +1,6 @@
-### Welcome to maker.moekoe
+# Welcome to maker.moekoe
 
-This is the GitHub Page which expands my [Instagram Blog](https://www.instagram.com/maker.moekoe/) with the functionality to provide some corresponding materials to most of my projects.
+This is the GitHub Page providing some corresponding materials to most of my projects which can be found on my [Instagram Blog](https://www.instagram.com/maker.moekoe/).
 
 
 In the future there will be great content to have a look at, but until now it is just a work in progress..
@@ -14,6 +14,7 @@ In the future there will be great content to have a look at, but until now it is
 
 
 The latest posts and projects can be found on my [Instagram Blog](https://www.instagram.com/maker.moekoe/).
+
 But there are also some great projects on my [Instructables Page](https://www.instructables.com/member/moekoe/).
 
 Have fun doing arts and crafts
