@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: maker moekoe
+
+header_pages:
+  - projects.md
+
+instagram_username: maker.moekoe
+github_username: makermoekoe
