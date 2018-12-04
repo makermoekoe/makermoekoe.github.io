@@ -5,7 +5,7 @@ This is the GitHub Page which expands my [Instagram Blog](https://www.instagram.
 
 In the future there will be great content to have a look at, but until now it is just a work in progress..
 
-##Projects
+## Projects
 
 - Smarthome dashbutton
 - microbot
