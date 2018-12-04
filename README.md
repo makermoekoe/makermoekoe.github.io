@@ -7,10 +7,10 @@ In the future there will be great content to have a look at, but until now it is
 
 ## Projects
 
-- Smarthome dashbutton
+- [Smarthome dashbutton](https://github.com/makermoekoe/Smarthome-dashbutton)
 - microbot
 - Dodecagon Light
-- 500 Pixels RGB-Brick
+- [500 Pixels RGB-Brick](https://www.instructables.com/id/500-LED-Pixel-RGB-Brick/)
 
 
 The latest posts and projects can be found on my [Instagram Blog](https://www.instagram.com/maker.moekoe/).
