@@ -1,6 +1,6 @@
 # Welcome to maker.moekoe
 
-This is the GitHub Page which provides some corresponding materials to some of my projects on my [Instagram Blog](https://www.instagram.com/maker.moekoe/).
+This GitHub Page provides some corresponding materials to some of my projects on my [Instagram Blog](https://www.instagram.com/maker.moekoe/).
 
 ## Projects
 
