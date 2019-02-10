@@ -5,6 +5,7 @@ This GitHub Page provides corresponding materials to some of my projects on my [
 ## Projects
 
 - Smart home dashbutton ([GitHub](https://github.com/makermoekoe/Smarthome-dashbutton) - [Instructables](https://www.instructables.com/id/How-to-Build-a-Dashbutton-for-the-Internet-of-Thin/))
+- Qi-pad ([GitHub](https://github.com/makermoekoe/Qi-pad))
 - IoT ePaper Display ([GitHub](https://github.com/makermoekoe/IoT-ePaper-Display))
 - microbot (documentation is following)
 - 500 Pixels RGB-Brick ([Instructables](https://www.instructables.com/id/500-LED-Pixel-RGB-Brick/))
