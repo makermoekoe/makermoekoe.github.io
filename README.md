@@ -14,6 +14,7 @@ This GitHub Page provides corresponding materials to some of my projects on my [
 
 ## 5 Minute Projects
 
+- FlappyBird Replica ([Github](https://github.com/makermoekoe/FlappyBird-Replica))
 - Instagram Stats Oled ([Github](https://github.com/makermoekoe/Instagram-Stats-Oled))
 
 ## Follow Follow Follow
